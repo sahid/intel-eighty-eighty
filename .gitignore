@@ -5,6 +5,7 @@
 # Libraries
 *.lib
 *.a
+*.ali
 
 # Shared objects (inc. Windows DLLs)
 *.dll
